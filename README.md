@@ -1,3 +1,3 @@
 # E-card Sushi tutorial
 
-Follow this tutorial at http://coderdojo-iowacity.github.io/ecard-sushi/
+Follow this tutorial at https://pmotyka.github.io/ecard-sushi/
